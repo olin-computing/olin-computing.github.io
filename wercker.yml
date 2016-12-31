@@ -16,4 +16,4 @@ deploy:
         packages: git ssh-client
     - giovanni/gh-pages@0.2.2:
         token: $GIT_TOKEN
-        domain: osteele.com
+        basedir: public

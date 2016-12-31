@@ -1,4 +1,4 @@
-baseurl = "https://olin-computing.github.io"
+baseurl = "https://olin-computing.github.io/website"
 languageCode = "en-us"
 title = "Computing at Frank W. Olin College of Engineering"
 theme = "hugo-alabaster-theme"
@@ -11,7 +11,7 @@ metadataformat = "yaml"
   custom_css = ["site.css"]
 
 	github_user = "olin-computing"
-	github_repo = "olin-computing.github.io"
+	github_repo = "website"
 
 [params.sidebar]
 	github_button  = true
