@@ -1,0 +1,18 @@
+baseurl = "https://olin-computing.github.io"
+languageCode = "en-us"
+title = "Computing at Frank W. Olin College of Engineering"
+theme = "hugo-alabaster-theme"
+metadataformat = "yaml"
+
+[params]
+  name = "Olin Computing"
+  description = "Computing at Frank W. Olin College of Engineering."
+
+  custom_css = ["site.css"]
+
+	github_user = "olin-computing"
+	github_repo = "olin-computing.github.io"
+
+[params.sidebar]
+	github_button  = true
+	show_relations = true
