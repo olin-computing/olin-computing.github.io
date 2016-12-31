@@ -14,6 +14,6 @@ deploy:
     steps:
     - install-packages:
         packages: git ssh-client
-    - giovanni/gh-pages@0.2.2:
+    - osteele/gh-pages:
         token: $GIT_TOKEN
         basedir: public
