@@ -1,7 +1,7 @@
 # Olin Computing Web Site Source
 [![wercker status](https://app.wercker.com/status/f23da8de2ca418aa475fb60560c5182a/s/master "wercker status")](https://app.wercker.com/project/byKey/f23da8de2ca418aa475fb60560c5182a)
 
-This repository holds the source to the Olin Computing web site.
+This repository holds the source to the [Olin Computing web site](https://olin-computing.github.io/website/).
 
 ## Develop
 
@@ -15,7 +15,7 @@ This repository holds the source to the Olin Computing web site.
 2. (Wait a minute.)
 3. Open [https://olin-computing.github.io/website/](https://olin-computing.github.io/website/) to verify.
 
-[Wercker](https://app.wercker.com/osteele/website/runs) watches the repository and updates the `gh-pages` branch.
+[[Wercker](https://app.wercker.com/osteele/website/runs) watches this repository and updates the `gh-pages` branch.]
 
 ## Build Status
 [![wercker status](https://app.wercker.com/status/f23da8de2ca418aa475fb60560c5182a/m/master "wercker status")](https://app.wercker.com/project/byKey/f23da8de2ca418aa475fb60560c5182a)
