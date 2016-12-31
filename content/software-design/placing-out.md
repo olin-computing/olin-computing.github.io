@@ -5,9 +5,11 @@ title: Testing out of Software Design
 date: 2016-12-31T09:22:19-05:00
 ---
 
-<b>IMPORTANT: If you are not majoring in E:C, you do not need to test out of Software Design.
+{{< warning title="Important" >}}
+If you are not majoring in E:C, you do not need to test out of Software Design.
 If you are majoring in ECE, you can substitute an advanced software class for Software Design.
-You just need permission of the instructor to waive the prerequisite.</b>
+You just need permission of the instructor to waive the prerequisite.
+{{< /warning >}}
 
 The following only applies to students planning to major in E:C.
 If you are not sure yet what your major is, you can stop reading now.
