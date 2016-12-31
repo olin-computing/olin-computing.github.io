@@ -1,4 +1,4 @@
-baseurl = "https://olin-computing.github.io/website"
+baseurl = "https://olin-computing.github.io/website/"
 languageCode = "en-us"
 title = "Computing at Frank W. Olin College of Engineering"
 theme = "hugo-alabaster-theme"
