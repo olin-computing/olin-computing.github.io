@@ -1,1 +1,1 @@
-# website
+# Computing at Olin College

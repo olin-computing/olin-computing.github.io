@@ -1,5 +1,36 @@
-title: Olin Computing
-name: Olin Computing
-description: Computing at Frank W. Olin College of Engineering
-url: https://olin-computing.github.io
-theme: jekyll-theme-minimal
+# Site Settings
+locale          : "en"
+title           : "Olin Computing"
+# title_separator : "-"
+tagline:          'Not too DRY'
+# name            : "Olin Computing"
+description     : "Computing at Frank W. Olin College of Engineering"
+url             : "https: //olin-computing.github.io"
+baseurl         : # the subpath of your site, e.g. "/blog"
+repository      : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser          : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+# breadcrumbs   : false # true, false (default)
+
+permalink:        pretty
+
+theme:       minimal-mistakes-jekyll
+# repository:  "olin-computing/olin-computing.github.io"
+# permalink: blog/: year/: month/: title
+# permalink:   pretty
+
+
+# Plugins
+# gems:
+#   - jekyll-paginate
+#   - jekyll-sitemap
+#   - jekyll-gist
+#   - jekyll-feed
+#   - jemoji
+
+# # mimic GitHub Pages with --safe
+# whitelist:
+#   - jekyll-paginate
+#   - jekyll-sitemap
+#   - jekyll-gist
+#   - jekyll-feed
+#   - jemoji
