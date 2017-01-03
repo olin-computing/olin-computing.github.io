@@ -1,12 +1,12 @@
 baseurl = "https://olin-computing.github.io/website/"
 languageCode = "en-us"
-title = "Computing at Olin College"
+title = "Computing @ Olin College"
 theme = "hugo-material-docs"
 metadataformat = "yaml"
 canonifyurls = true
 
 [params]
-  description = "Computing at Franklin W. Olin College of Engineering."
+    description = "Computing at Franklin W. Olin College of Engineering."
 	copyright = "Released under the MIT license"
 
 	# provider = "GitHub"
@@ -15,7 +15,7 @@ canonifyurls = true
 	custom_css = ["site.css"]
 
 	[params.palette]
-    primary = "blue"
+    primary = "light-blue"
     accent  = "teal"
 
 [social]

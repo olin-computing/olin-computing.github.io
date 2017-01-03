@@ -3,11 +3,14 @@
 
 This repository holds the source to the [Olin Computing web site](https://olin-computing.github.io/website/).
 
+## Install
+
+[Install Hugo](https://gohugo.io/overview/installing/)
+
 ## Develop
 
-1. [Install Hugo](https://gohugo.io/overview/installing/)
-2. `hugo serve`
-3. Open [http://localhost:1313/website/](http://localhost:1313/website/)
+1. `hugo serve`
+2. Open [http://localhost:1313/website/](http://localhost:1313/website/)
 
 ## Deploy
 

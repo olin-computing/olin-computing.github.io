@@ -1,6 +1,6 @@
 ---
 date: 2016-12-31T09:23:53-05:00
-title: Welcome to Computing @ Olin
+title: Welcome
 type: index
 weight: 0
 ---
