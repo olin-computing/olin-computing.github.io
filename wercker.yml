@@ -1,4 +1,4 @@
-box: debian
+box: osteele/hugo-build
 
 build:
     steps:
