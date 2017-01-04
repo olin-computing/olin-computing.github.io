@@ -16,7 +16,7 @@ This repository holds the source to the [Olin Computing web site](https://olin-c
 
 1. `git push origin master`
 2. (Wait a minute.)
-3. Open [https://olin-computing.github.io/website/](https://olin-computing.github.io/website/) to verify.
+3. Open [https://olin-computing.github.io/](https://olin-computing.github.io/) to verify.
 
 [[Wercker](https://app.wercker.com/osteele/website/runs) watches this repository and updates the `gh-pages` branch.]
 

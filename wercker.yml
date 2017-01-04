@@ -17,3 +17,4 @@ deploy:
     - osteele/gh-pages:
         token: $GIT_TOKEN
         basedir: public
+        repo: olin-computing/olin-computing.github.io
