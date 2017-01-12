@@ -1,8 +1,7 @@
 ---
 date: 2016-12-31T09:23:53-05:00
-title: Welcome
-type: index
-weight: 0
+title: Computing @ Olin
+layout: default
 ---
 
 ![](https://upload.wikimedia.org/wikipedia/commons/f/f9/Road-under-construction.png)
