@@ -10,3 +10,16 @@
     left:   1rem;
   }
 }
+
+.under-construction { margin: 20pt; border: 1px solid gray; background: #e8e8e8; }
+.under-construction img { float: left; margin: 10px; }
+.under-construction:after { clear: both; }
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+	}

@@ -4,7 +4,7 @@ title: Computing @ Olin
 layout: default
 ---
 
-![](https://upload.wikimedia.org/wikipedia/commons/f/f9/Road-under-construction.png)
+{% include under_construction.html %}
 
 This site has information about computing at the [Franklin W. Olin College of Engineering](http://www.olin.edu/).
 

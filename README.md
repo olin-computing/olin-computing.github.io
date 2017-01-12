@@ -29,3 +29,5 @@ Alternative:
 ## Credits
 
 This site uses [Jekyll](https://jekyllrb.com) with the [Hyde theme](http://hyde.getpoole.com).
+
+The Under Construction icon is [from Wikipedia](https://en.wikipedia.org/wiki/Template:Under_construction).
