@@ -25,3 +25,7 @@ Alternative:
 1. git push
 2. [Wait a minute]
 2. Browse to [https://olin-computing.github.io/website/](https://olin-computing.github.io/website/)
+
+## Credits
+
+This site uses [Jekyll](https://jekyllrb.com) with the [Hyde theme](http://hyde.getpoole.com).
