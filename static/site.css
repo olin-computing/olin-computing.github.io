@@ -1,7 +1,0 @@
-dl { margin-top: 1.5em; margin-left: 1.5em; }
-dt { foxnt-weight: bold; font-style: italic; padding-top: 0.5em; }
-dt::after { content: ":"; }
-
-dt, dd { display:inline }
-dd:after { display: block; content: ''; padding: 0.25em; }
-

@@ -1,0 +1,12 @@
+.sidebar-about h1 { font-size: x-large; }
+.sidebar-about .lead { font-size: 1em; }
+
+@media (min-width: 48em) {
+  .sidebar-sticky {
+    position: absolute;
+    right:  1rem;
+    top: 1rem;
+    bottom: inherit;
+    left:   1rem;
+  }
+}
