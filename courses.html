@@ -1,0 +1,15 @@
+---
+date: 2017-01-16
+title: Course Pages
+layout: page
+---
+
+{% comment %} data from _data/courses.yml {% endcomment %}
+
+{% for course in site.data.courses %}
+<ul>
+  {% if course.url %}
+    <li><a href="{{course.url}}">{{course.number}} – {{course.name}}</a>
+  {% endif %}
+<ul>
+{% endfor %}
