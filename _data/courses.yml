@@ -1,7 +1,7 @@
 - number: ENGR2510
   name: Software Design
   description: an intermediate level programming course; covers linear data structures and algorithms, object-oriented design, user interface development, and networking.
-  url: softdes.olin-computing.website
+  url: http://softdes.olin-computing.website
 
 - number: ENGR2599
   name: Software Engineering
