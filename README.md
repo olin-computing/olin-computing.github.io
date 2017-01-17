@@ -13,18 +13,18 @@ Install [Docker Compose](https://docs.docker.com/compose/install/)
 ## Develop
 
 1. `jekyll serve`
-2. Browse to [localhost:4000](http://localhost:4000)
+2. Browse to <http://localhost:4000>
 
 Alternative:
 
-1b. `docker-compose up`
-2. Browse to [localhost:4000](http://localhost:4000)
+1. `docker-compose up`
+2. Browse to <http://localhost:4000>
 
 ## Publish
 
 1. git push
 2. [Wait a couple of seconds]
-2. Browse to [https://olin-computing.github.io/](https://olin-computing.github.io/)
+2. Browse to <http://olin-computing.website/>
 
 ## Credits
 
