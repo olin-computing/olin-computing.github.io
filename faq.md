@@ -79,8 +79,9 @@ Many of our students take one or more additional computing classes at our partne
 Olin has these faculty members who teach and do research in computer science:
 
 {% comment %} course data is in _data/faculty.yml {% endcomment %}
-{% for person in site.data.faculty %}
-  <p>{{person.name}} ({{person.education}}) does research in {{person.research}}.</p>
+{% assign faculty = site.data.faculty | sort: 'name' %}
+{% for person in faculty %}
+  <p>{{person.name}} ({{person.education}}){% if person.research %} does research in {{person.research}}{% endif %}.</p>
 {% endfor %}
 
 ## Where do E:C students go after graduation?
