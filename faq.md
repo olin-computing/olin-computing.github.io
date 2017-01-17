@@ -65,29 +65,11 @@ Here is a list of our CS-related classes, with explanations of how they relate t
 Modeling and Simulation
 : basic programming skills for students with no prior experience.
 
-ENGR2510: Software Design
-: an intermediate level programming course; covers linear data structures and algorithms, object-oriented design, user interface development, and networking.
-
-ENGR2599: Software Engineering
-: object-oriented programming in Java, design patterns, test-driven design, and software engineering tools including version control and testing.
-
-ENGR3520: Foundations of Computer Science
-: core elements from Theory of Computation, Programming Languages, and Algorithms.  Includes functional and declarative programming paradigms.
-
-ENGR3220: Human Factors in Interface Design
-: similar to Human-Computer Interfaces, this is a user-centered design class with team-based semester-long projects designing and building an interface to a software or embedded system.
-
-ENGR3525: Software Systems
-: similar to Operating Systems, with emphasis on Synchronization, Networks and Distributed Systems; and with elements of Database Implementation and Run-Time Systems.
-
-ENGR3410: Computer Architecture
-: design and analysis of MIPS-style microprocessors, with basic digital logic design.  Students build and simulate single-cycle and pipelined processors in structural Verilog.
-
-ENGR3540: Computational Modeling
-: simulation as a tool for scientific exploration, with emphasis on discrete and stochastic models of physical systems; includes graph algorithms and dynamic programming.
-
-ENGR3599: Artificial Intelligence Programming
-: a hands-on introduction to some of the major ideas behind artificial intelligence---search, planning, knowledge representation, learning---and their applications.
+{% comment %} course data is in _data/courses.yml {% endcomment %}
+{% for course in site.data.courses %}
+{{course.number}}: {{course.name}}
+: {{course.description}}
+{% endfor %}
 
 Many of our students take one or more additional computing classes at our partner institutions or during a semester of study away.  Classes students have taken recently include Computer Graphics, Programming Languages and Databases with Web Interfaces at Wellesley; and Artificial Intelligence at Brandeis.
 

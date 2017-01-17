@@ -1,3 +1,32 @@
 - number: ENGR2510
   name: Software Design
+  description: an intermediate level programming course; covers linear data structures and algorithms, object-oriented design, user interface development, and networking.
   url: softdes.olin-computing.website
+
+- number: ENGR2599
+  name: Software Engineering
+  description: object-oriented programming in Java, design patterns, test-driven design, and software engineering tools including version control and testing.
+
+- number: ENGR3520
+  name: Foundations of Computer Science
+  description: core elements from Theory of Computation, Programming Languages, and Algorithms.  Includes functional and declarative programming paradigms.
+
+- number: ENGR3220
+  name: Human Factors in Interface Design
+  description: similar to Human-Computer Interfaces, this is a user-centered design class with team-based semester-long projects designing and building an interface to a software or embedded system.
+
+- number: ENGR3525
+  name: Software Systems
+  description: similar to Operating Systems, with emphasis on Synchronization, Networks and Distributed Systems; and with elements of Database Implementation and Run-Time Systems.
+
+- number: ENGR3410
+  name: Computer Architecture
+  description: design and analysis of MIPS-style microprocessors, with basic digital logic design.  Students build and simulate single-cycle and pipelined processors in structural Verilog.
+
+- number: ENGR3540
+  name: Computational Modeling
+  description: simulation as a tool for scientific exploration, with emphasis on discrete and stochastic models of physical systems; includes graph algorithms and dynamic programming.
+
+- number: ENGR3599
+  name: Artificial Intelligence Programming
+  description: a hands-on introduction to some of the major ideas behind artificial intelligence---search, planning, knowledge representation, learning---and their applications.
