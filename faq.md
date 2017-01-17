@@ -76,14 +76,12 @@ Many of our students take one or more additional computing classes at our partne
 
 ## What faculty does Olin have in Computer Science?
 
-Olin has four faculty members who teach and do research in computer science:
+Olin has these faculty members who teach and do research in computer science:
 
-Allen Downey (Ph.D., Computer Science, U.C. Berkeley) does research in Operating Systems and Networks, and teaches Software Systems and Computational Modeling.
-
-Paul Ruvolo (Ph.D. Computer Science, U.C. San Diego) does research in social interaction between humans and robots; teaches classes related to computing and robotics.
-
-Lynn Stein (Ph.D., Computer Science, Brown University) does research in Artificial Intelligence and Programming Languages and teaches Foundations of Computer Science and Human Factors in Interface Design.
-
+{% comment %} course data is in _data/faculty.yml {% endcomment %}
+{% for person in site.data.faculty %}
+  <p>{{person.name}} ({{person.education}}) does research in {{person.research}}.</p>
+{% endfor %}
 
 ## Where do E:C students go after graduation?
 
