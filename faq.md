@@ -2,6 +2,7 @@
 title: FAQ
 date: 2016-12-31T09:23:53-05:00
 layout: page
+weight: 1000
 ---
 
 ## Does Olin offer a Computer Science degree?
