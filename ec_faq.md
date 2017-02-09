@@ -1,9 +1,14 @@
 ---
-title: FAQ
-date: 2016-12-31T09:23:53-05:00
+title: E:C FAQ
+date: 2017-02-09
 layout: page
 weight: 1000
 ---
+
+<i>This page is an updated version of [E:C FAQ](https://sites.google.com/site/allendowney/home/computing-at-olin/computing-at-olin-faq),
+on [Allen Downey's Google Site](https://sites.google.com/site/allendowney/).</i>
+
+<i>It has been updated to more nearly – but not entirely – match the current faculty and course offerings as of 2007.</i>
 
 ## Does Olin offer a Computer Science degree?
 
@@ -49,7 +54,7 @@ The following are the languages students are likely to see in class:
 * Verilog (Computer Architecture)
 * Simulink (Modeling and Control)
 
-Many students have picked up additional languages from internships, research projects, etc.
+Many students have picked up additional languages from internships, research projects, *etc*.
 
 
 ## Does Olin College teach software engineering?
@@ -82,7 +87,7 @@ Olin has these faculty members who teach and do research in computer science:
 {% comment %} course data is in _data/faculty.yml {% endcomment %}
 {% assign faculty = site.data.faculty | sort: 'name' %}
 {% for person in faculty %}
-  <p>{{person.name}} ({{person.education}}){% if person.research %} does research in {{person.research}}{% endif %}.</p>
+  <p><b>{{person.name}}</b> ({{person.education}}){% if person.research %} does research in {{person.research}}{% endif %}.</p>
 {% endfor %}
 
 ## Where do E:C students go after graduation?
