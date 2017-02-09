@@ -9,7 +9,7 @@ layout: page
 {% for course in site.data.courses %}
 <ul>
   {% if course.url %}
-    <li><a href="{{course.url}}">{{course.number}} – {{course.name}}</a>
+    <li><a href="{{course.url}}">{%if course.number %}{{course.number}} – {% endif %}{{course.name}}</a></li>
   {% endif %}
-<ul>
+</ul>
 {% endfor %}

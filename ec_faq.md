@@ -73,8 +73,10 @@ Modeling and Simulation
 
 {% comment %} course data is in _data/courses.yml {% endcomment %}
 {% for course in site.data.courses %}
+{% if course.elective != true and course.student_taught != true %}
 {{course.number}}: {{course.name}}
 : {{course.description}}
+{% endif %}
 {% endfor %}
 
 Many of our students take one or more additional computing classes at our partner institutions or during a semester of study away.  Classes students have taken recently include Computer Graphics, Programming Languages and Databases with Web Interfaces at Wellesley; and Artificial Intelligence at Brandeis.

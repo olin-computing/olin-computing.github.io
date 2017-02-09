@@ -30,3 +30,16 @@
 - number: ENGR3599
   name: Artificial Intelligence Programming
   description: a hands-on introduction to some of the major ideas behind artificial intelligence---search, planning, knowledge representation, learning---and their applications.
+
+- number: ENGR3599A
+  name: Hacking the Library
+  description: >
+    In this studio course, teams leverage the Library’s resources and institutional mandate to demonstrate the future of Olin’s Library and public libraries writ large.
+    The course focuses on creating, developing, and deploying projects that the Library will host. Our aim is to create systems, artifacts, and spaces that escape the semester and impact the Olin community beyond the semester.
+  url: http://hackingthelibrary.org
+  elective: true
+
+- name: Olin.js
+  url: http://olinjs.github.io
+  student_taught: true
+  description: a student-led and -developed project-oriented approach to learning modern web application development.
