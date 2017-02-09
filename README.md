@@ -1,6 +1,11 @@
 # Olin Computing Web Site Source
 
-This repository holds the source to the [Olin Computing web site](https://olin-computing.github.io/).
+This repository holds the source to the [Olin Computing web site](http://olin-computing.website/).
+
+The web site has updated versions of the two pages at Allen Downey's [Computing at Olin Google Site](https://sites.google.com/site/allendowney/home/computing-at-olin).
+
+Both the web site and the pages are under development, and the strategy of hosting these on GitHub is an exploration.
+
 
 ## Install
 
@@ -9,6 +14,7 @@ This repository holds the source to the [Olin Computing web site](https://olin-c
 Alternative:
 
 Install [Docker Compose](https://docs.docker.com/compose/install/)
+
 
 ## Develop
 
@@ -20,11 +26,13 @@ Alternative:
 1. `docker-compose up`
 2. Browse to <http://localhost:4000>
 
+
 ## Publish
 
 1. git push
 2. [Wait a couple of seconds]
 2. Browse to <http://olin-computing.website/>
+
 
 ## Credits
 
