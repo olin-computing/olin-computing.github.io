@@ -6,9 +6,9 @@ weight: 1000
 ---
 
 <i>This page is an updated version of [E:C FAQ](https://sites.google.com/site/allendowney/home/computing-at-olin/computing-at-olin-faq),
-on [Allen Downey's Google Site](https://sites.google.com/site/allendowney/).</i>
+from [Allen Downey's Google Site](https://sites.google.com/site/allendowney/).</i>
 
-<i>It has been updated to more nearly – but not entirely – match the current faculty and course offerings as of 2007.</i>
+<i>It has been updated to more nearly – but not entirely – match the current faculty and course offerings as of 2017.</i>
 
 ## Does Olin offer a Computer Science degree?
 
