@@ -14,3 +14,5 @@ Both the web site and the pages are under development, and the strategy of hosti
 
 For official information, see the [Olin engineering course listing](http://www.olin.edu/course-listing/engineering/), and the
 [list of Olin faculty](http://www.olin.edu/faculty/), at the [Olin College official website](http://www.olin.edu).
+
+Edit these pages [on GitHub](https://github.com/olin-computing/olin-computing.github.io).
